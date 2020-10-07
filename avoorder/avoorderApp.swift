@@ -15,7 +15,7 @@ struct avoorderApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView(order: defaultOrder)
+            ContentView()
         }
     }
 }
