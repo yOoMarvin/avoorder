@@ -27,6 +27,7 @@
 		582344F5252E3A700018F159 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		585DEA42252E42C300143C11 /* Firebase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Firebase.swift; sourceTree = "<group>"; };
 		585DEA46252E463000143C11 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		58B3621F252F645F00BD5B24 /* Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Playground.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A9D9138D429117C203F62C03 /* Pods-avoorder.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-avoorder.release.xcconfig"; path = "Target Support Files/Pods-avoorder/Pods-avoorder.release.xcconfig"; sourceTree = "<group>"; };
 		B1CFC2E581B5F3AC20FD02B3 /* Pods_avoorder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_avoorder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E2A6E7E277D6F435052C38 /* Pods-avoorder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-avoorder.debug.xcconfig"; path = "Target Support Files/Pods-avoorder/Pods-avoorder.debug.xcconfig"; sourceTree = "<group>"; };
@@ -73,6 +74,7 @@
 		582344E4252E39E70018F159 /* avoorder */ = {
 			isa = PBXGroup;
 			children = (
+				58B3621F252F645F00BD5B24 /* Playground.playground */,
 				582344F5252E3A700018F159 /* GoogleService-Info.plist */,
 				582344E5252E39E70018F159 /* avoorderApp.swift */,
 				582344E7252E39E70018F159 /* ContentView.swift */,
